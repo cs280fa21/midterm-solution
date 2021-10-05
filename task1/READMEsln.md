@@ -2,7 +2,7 @@
 
 Please add a `T` for "true" or `F` for "false" in  the `[ ]` preceding each statemnt. 
 
-- [T] JavaScript supports functional and object-oreinted programming paradigms.
+- [T] JavaScript supports functional and object-oriented programming paradigms.
 
 - [F] All values in JavaScript are "passed by reference" and "compared by reference."
 

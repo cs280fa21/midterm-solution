@@ -26,10 +26,10 @@
 3. **Spec:** For task-3 (`diff`), the code encompasses a solid attempt at implementation.\
    **TAs:** This specification is met even if the code contains minor syntax errors or fails to account for a minor edge case. However, it is not met if it has obvious logical errors.
 
-4. **Spec:** For task-4 (`Account`), the code encompasses a reasonable attempt at implementaation and exhibits a good understanding of closure.\
+4. **Spec:** For task-4 (`Account`), the code encompasses a reasonable attempt at implementation and exhibits a good understanding of closure.\
    **TAs:** This specification is met even if the code contains syntax or minor logical errors.
 
-5. **Spec:** For task-6 (`whenDOMContentLoaded`), the code encompasses a reasonable attempt at implementaation and exhibits a good understanding of Promises.\
+5. **Spec:** For task-6 (`whenDOMContentLoaded`), the code encompasses a reasonable attempt at implementation and exhibits a good understanding of Promises.\
    **TAs:** This specification is met even if the code contains syntax or minor logical errors.
 
 ### Complete
@@ -39,7 +39,7 @@
 2. **Spec:** For task-4 (`Account`), the code exhibits a solid attempt at implementation and exhibits full understanding of closure.\
    **TAs:** This specification is met even if the code contains minor syntax errors or fails to account for a minor edge case. However, it is not met if it has obvious logical errors.
 
-3. **Spec:** For task-6 (`whenDOMContentLoaded`), the code exhibits a solid attempt at implementation and exhibits full understanding of Promises.\
+3. **Spec:** For task-6 (`whenDOMContentLoaded`), the code exhibits a solid attempt at implementation and exhibits a full understanding of Promises.\
    **TAs:** This specification is met even if the code contains minor syntax errors or fails to account for a minor edge case. However, it is not met if it has obvious logical errors.
 
 4. **Spec:** The submission displays good practices for writing readable code (e.g., consistent indentation, descriptive naming, etc.) and good programming style (e.g., code is organized in a modular fashion, etc.)
